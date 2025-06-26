@@ -9,7 +9,7 @@ The goal of this project is to:
 - Provide a visual overview of employee trends and organizational health.
 - Enhance data storytelling in HR using Tableau’s visualization features.
 
-![Image of the Dashoard](E/HR_DASHBOARD.png)
+![Image of the Dashoard](HR_DASHBOARD.png)
 
 ## 📌 Key Features
 
